@@ -4,4 +4,4 @@
 - 🌱 I’m currently learning [CodeQL](https://codeql.github.com/)
 - ⚡ Currently enjoying my last college time
 - 😄 CTFer / swim / ski / movie / food / etc.
-- ✍ [Blog](https://linkleyping.top/)
+- ✍ https://linkleyping.top/
