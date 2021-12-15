@@ -6,4 +6,4 @@
 - ✍ https://linkleyping.top/
 
 [![ep's GitHub stats](https://github-readme-stats.vercel.app/api?username=LinkleYping&hide=issues,contribs&show_icons=true&theme=material-palenight)](https://github.com/LinkleYping/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LinkleYping&hide=css&layout=compact&theme=material-palenight)](https://github.com/LinkleYping/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LinkleYping&hide=css,scss&layout=compact&theme=material-palenight)](https://github.com/LinkleYping/github-readme-stats)
